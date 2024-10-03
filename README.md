@@ -1,1 +1,2 @@
-# platform-rougelike-game
+# platform-fighter-game
+Made this in an afternoon not sure if Ill come back to it in a rough state but functional and maybe fun...
